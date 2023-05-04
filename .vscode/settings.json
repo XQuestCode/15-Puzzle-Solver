@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cblas.h": "c",
+        "functional": "cpp",
+        "istream": "cpp"
+    }
+}
